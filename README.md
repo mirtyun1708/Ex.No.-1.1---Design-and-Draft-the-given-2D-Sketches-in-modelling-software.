@@ -1,5 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
-
+## NAME: MIRTYUNJAY S
+## REGISTER NO:212224040190
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +43,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+<img width="1219" height="871" alt="Screenshot 2026-03-25 105920" src="https://github.com/user-attachments/assets/175f5b0d-9a2f-4fa2-8805-243e19e47391" />
+
 
 
 ## RESULT
